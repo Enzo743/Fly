@@ -1,0 +1,10 @@
+name: Fly
+author: Enzoooo_
+version: 1.0
+api-version: 1.16
+main: fr.enzoooo.fly.Main
+
+commands:
+  fly:
+    description: Vous permet de voler sans être en créatif
+    permission: fly.use
